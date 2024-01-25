@@ -17,6 +17,7 @@
     "release": "release-it --only-version"
   },
   "dependencies": {
+    "@sentry/vue": "^7.98.0",
     "ol": "^8.2.0",
     "ol-contextmenu": "^5.3.0",
     "ol-ext": "^4.0.13",
